@@ -8,13 +8,13 @@ The goal is to extract valuable insights to aid in strategic decision-making and
 
 **Key Features:**
 
-Database Schema Analysis: 
+**Database Schema Analysis: **
 Includes tables for regions, customer transactions, and customer nodes.
 
-Comprehensive SQL Queries: 
+**Comprehensive SQL Queries: **
 To answer key business questions about nodes, customers, transactions, and regional distributions.
 
-Performance Metrics:
+**Performance Metrics:**
  Calculation of average transfer times, transaction amounts, and customer behavior patterns.
 
 **Key Findings:**
