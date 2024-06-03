@@ -1,6 +1,6 @@
-Data Bank SQL Project
+**Data Bank SQL Project**
 
-Overview:
+**Overview:**
 
 This project focuses on analyzing the SQL database of Data Bank,a Neo-Bank that operates solely online and connects customers' cloud data storage allotments to their account balances. 
 The goal is to extract valuable insights to aid in strategic decision-making and operational optimization.
