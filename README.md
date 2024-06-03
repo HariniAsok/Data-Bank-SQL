@@ -34,3 +34,14 @@ To answer key business questions about nodes, customers, transactions, and regio
 The analysis provided actionable insights into the Data Bank network's structure and customer behaviors. 
 Key recommendations include optimizing node allocation, enhancing regional engagement, tailoring financial products, streamlining transfer processes, and targeted campaigns during peak months.
 These insights are crucial for driving innovation and growth in the fintech space.
+
+
+Key Findings from Data Bank Network Analysis
+* Node Distribution: Multiple nodes across various regions.
+* Regional Node Count: Specific node counts per region.
+* Customer Allocation: Even customer distribution among regions.
+* Transaction Volume: Total transactions varied by region.
+* Client Migration Time: Average time to move clients to new nodes calculated.
+* Transaction Analysis: Identified unique counts and total amounts for each transaction type.
+* Deposit Trends: Average number and size of past deposits calculated.
+* Monthly Activity: Number of customers making multiple deposits and at least one purchase or withdrawal each month identified.
