@@ -6,7 +6,7 @@ This project focuses on analyzing the SQL database of Data Bank,a Neo-Bank that 
 The goal is to extract valuable insights to aid in strategic decision-making and operational optimization.
 
 
-Key Features:
+**Key Features:**
 
 Database Schema Analysis: 
 Includes tables for regions, customer transactions, and customer nodes.
@@ -17,7 +17,7 @@ To answer key business questions about nodes, customers, transactions, and regio
 Performance Metrics:
  Calculation of average transfer times, transaction amounts, and customer behavior patterns.
 
-Key Findings:
+**Key Findings:**
 
 * Unique Nodes: 150 distinct nodes in the network.
 * Node Distribution: Region 1 - 30 nodes, Region 2 - 45 nodes,Region 3 - 75 nodes.
@@ -29,7 +29,8 @@ Key Findings:
 * Monthly Active Customers: January - 100, February - 120.
 
 
-Conclusion:
+**Conclusion:**
+
 The analysis provided actionable insights into the Data Bank network's structure and customer behaviors. 
 Key recommendations include optimizing node allocation, enhancing regional engagement, tailoring financial products, streamlining transfer processes, and targeted campaigns during peak months.
 These insights are crucial for driving innovation and growth in the fintech space.
